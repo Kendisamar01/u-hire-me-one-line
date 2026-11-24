@@ -1,3 +1,5 @@
+"""Copy the stripped contents of entry.txt to /output/entry.txt."""
+
 from pathlib import Path
 import sys
 
